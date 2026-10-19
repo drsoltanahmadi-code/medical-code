@@ -1,0 +1,8 @@
+{
+  "global_prices": {
+    "private_technical": 5100000,
+    "private_professional": 1850000,
+    "public_technical": 1140000,
+    "public_professional": 553500
+  }
+}

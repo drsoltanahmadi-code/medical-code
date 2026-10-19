@@ -1,0 +1,9 @@
+{
+  "default_width": 201,
+  "default_margin": 10,
+  "default_alignment": "center",
+  "image_quality": 86,
+  "max_width": 800,
+  "border_radius": 5,
+  "shadow": true
+}

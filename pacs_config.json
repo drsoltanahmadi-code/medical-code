@@ -1,0 +1,19 @@
+{
+    "worklist_server": {
+        "url": "http://127.0.0.1:5001",
+        "timeout": 5
+    },
+    "modalities": {
+        "radiology": [
+            "rayscan",
+            "agfa"
+        ],
+        "sonography": [
+            "sono"
+        ]
+    },
+    "counters": {
+        "rad": 26,
+        "son": 4
+    }
+}

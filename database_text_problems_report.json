@@ -1,0 +1,162 @@
+{
+  "generated_at": "2025-11-17 22:49:55",
+  "total_problematic_records": 10,
+  "tables_scaned": [
+    {
+      "table_name": "admissions",
+      "problematic_records_count": 10
+    }
+  ],
+  "problematic_records": [
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 2,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 4,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 6,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 8,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 10,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 12,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 14,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 16,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 18,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    },
+    {
+      "table": "admissions",
+      "column": "status",
+      "rowid": 20,
+      "original_text": "در انتظار جواب",
+      "fixed_text": "باوج راظتنا رد",
+      "detected_patterns": [
+        {
+          "wrong_pattern": "اب",
+          "correct_form": "با",
+          "position": 12
+        }
+      ],
+      "problem_severity": 1
+    }
+  ]
+}
